@@ -1,6 +1,6 @@
 # Hi, I'm Yiğit
 
-**AI agent infrastructure** + a **Minecraft server with a real player economy**.
+**AI-native engineer.** Building agent infrastructure and a Minecraft server with a real player economy.
 TypeScript · Rust · Java · Python
 
 ## Agent infrastructure
