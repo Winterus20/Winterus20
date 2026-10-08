@@ -6,7 +6,6 @@ TypeScript · Rust · Java · Python
 ## Agent infrastructure
 
 - **[PenceAI](https://github.com/Winterus20/PenceAI)** — agent runtime, agentic RAG memory, MCP gateway, multi-provider LLM router, prompt caching, context compaction. Docker Compose, Jest benchmarks, OpenTelemetry.
-- **[Elementum](https://github.com/Winterus20/Elementum)** — Hytale periodic-table mod, Java 25 + JSON pack. *(private)*
 
 ## Systems & tools
 
@@ -15,6 +14,7 @@ TypeScript · Rust · Java · Python
 
 ## Games
 
+- **[Elementum](https://www.curseforge.com/hytale/mods/elementum)** — all 118 elements as ores, items & live physics for [Hytale](https://hytale.game): radiation, magnetism, conductivity, toxicity, buoyancy. Java 25 + JSON pack, single JAR. *(private repo)*
 - **[Doomscroll](https://github.com/Winterus20/Doomscroll)** — Vue 3 + TS incremental game. `break_eternity.js` past 1e308, procedural Web Audio, no art assets. 92 Vitest tests, 68 achievements.
 - **[Modpaketi](https://github.com/Winterus20/Modpaketi)** — Harbor Haven. Minecraft 1.20.1 Forge modpack (~170 mods), seasons-driven farm-life sim, KubeJS as the integration layer.
 
