@@ -21,7 +21,6 @@ TypeScript · Rust · Java · Python
 ## Minecraft
 
 - **[AudioEnginePlus](https://github.com/Winterus20/AudioEnginePlus)** — Fabric 1.21.1 audio mod. Source pooling near OpenAL limits, dedup, LRU PCM cache, distance LOD, DDA voxel occlusion. `LGPL-3.0`
-- **[purpur_server](https://github.com/Winterus20/purpur_server)** — my production Purpur instance: BlueMap, plugin stack, backup/restart automation.
 
 ## Earlier
 
